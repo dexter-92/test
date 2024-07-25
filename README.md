@@ -1,1 +1,1 @@
-Hello мир
+Hello world
